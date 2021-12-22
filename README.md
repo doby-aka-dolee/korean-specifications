@@ -1,7 +1,7 @@
 # korean-specifications
 Korean translation for various specifications and documents.
 
-As this repository aims to provide korean translation and expect to be read by Korean speakers, the rest of this file will be written in Korean. Sorry for English speakers who want to read at least this README.
+As this repository aims at providing korean translation and expect to be read by Korean speakers, the rest of this file will be written in Korean. Sorry for English speakers who want to read at least this README.
 
 ---
 
