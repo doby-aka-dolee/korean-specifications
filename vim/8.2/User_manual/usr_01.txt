@@ -17,7 +17,7 @@ conditions under which the commands are explained.
 Table of contents: |usr_toc.txt|
 
 ==============================================================================
-*01.1*  두 개의 매뉴얼 구성
+*01.1*  Two manuals
 
 Vim 문서는 두 부분으로 이루어져 있습니다.
 
